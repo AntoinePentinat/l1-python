@@ -1,2 +1,3 @@
-msg = ""
-print()
+msg = "hello wordl"
+print(msg.capitalize)
+
